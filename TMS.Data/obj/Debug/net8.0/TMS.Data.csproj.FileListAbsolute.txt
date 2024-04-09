@@ -1,0 +1,17 @@
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\bin\Debug\net8.0\TMS.Data.deps.json
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\bin\Debug\net8.0\TMS.Data.runtimeconfig.json
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\bin\Debug\net8.0\TMS.Data.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\bin\Debug\net8.0\TMS.Data.pdb
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\TMS.Data.csproj.AssemblyReference.cache
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\TMS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\TMS.Data.AssemblyInfoInputs.cache
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\TMS.Data.AssemblyInfo.cs
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\TMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\TMS.Data.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\refint\TMS.Data.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\TMS.Data.pdb
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\TMS.Data.genruntimeconfig.cache
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\ref\TMS.Data.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\bin\Debug\net8.0\TMS.Models.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\bin\Debug\net8.0\TMS.Models.pdb
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Data\obj\Debug\net8.0\TMS.Data.csproj.Up2Date

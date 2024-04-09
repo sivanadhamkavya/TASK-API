@@ -1,0 +1,17 @@
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\bin\Debug\net8.0\TMS.Services.deps.json
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\bin\Debug\net8.0\TMS.Services.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\bin\Debug\net8.0\TMS.Services.pdb
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\bin\Debug\net8.0\TMS.Data.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\bin\Debug\net8.0\TMS.Data.pdb
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\obj\Debug\net8.0\TMS.Services.csproj.AssemblyReference.cache
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\obj\Debug\net8.0\TMS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\obj\Debug\net8.0\TMS.Services.AssemblyInfoInputs.cache
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\obj\Debug\net8.0\TMS.Services.AssemblyInfo.cs
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\obj\Debug\net8.0\TMS.Services.csproj.CoreCompileInputs.cache
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\obj\Debug\net8.0\TMS.Serv.0D56FE0D.Up2Date
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\obj\Debug\net8.0\TMS.Services.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\obj\Debug\net8.0\refint\TMS.Services.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\obj\Debug\net8.0\TMS.Services.pdb
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\obj\Debug\net8.0\ref\TMS.Services.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\bin\Debug\net8.0\TMS.Models.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Services\bin\Debug\net8.0\TMS.Models.pdb

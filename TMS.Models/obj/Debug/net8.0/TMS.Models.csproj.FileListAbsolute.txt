@@ -1,0 +1,11 @@
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\bin\Debug\net8.0\TMS.Models.deps.json
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\bin\Debug\net8.0\TMS.Models.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\bin\Debug\net8.0\TMS.Models.pdb
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\obj\Debug\net8.0\TMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\obj\Debug\net8.0\TMS.Models.AssemblyInfoInputs.cache
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\obj\Debug\net8.0\TMS.Models.AssemblyInfo.cs
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\obj\Debug\net8.0\TMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\obj\Debug\net8.0\TMS.Models.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\obj\Debug\net8.0\refint\TMS.Models.dll
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\obj\Debug\net8.0\TMS.Models.pdb
+C:\Users\91918\source\repos\TaskMangementSystem\TMS.Models\obj\Debug\net8.0\ref\TMS.Models.dll
